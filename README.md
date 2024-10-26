@@ -3,6 +3,7 @@ This project uses Terraform to automate the deployment of an AWS VPC with subnet
 
 # Prerequisites
 1 AWS Account with IAM credentials
+
 2 Terraform installed on your local machine
 Project Setup
 
