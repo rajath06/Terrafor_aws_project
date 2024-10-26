@@ -1,4 +1,4 @@
-# AWS VPC with Subnets, EC2 Instances, and Load Balancer
+# AWS Infrastructure Setup with Terraform: VPC, Subnets, EC2 Instances, and Load Balancer for Web Application Deployment
 This project uses Terraform to automate the deployment of an AWS VPC with subnets, an internet gateway, security groups, EC2 instances, a load balancer, and a target group. The setup is designed to host an HTML page, ensuring scalability, accessibility, and health checks across instances.
 
 # Prerequisites
